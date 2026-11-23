@@ -1,49 +1,14 @@
-## Learning log
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=azizgameon-lab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F240029363%3Fv%3D4" alt="azizgameon-lab hero visual" />
+  <img src="./profile.svg" alt="azizgameon-lab profile card" />
 </p>
 
-**azizgameon-lab** · Product-minded developer
-
-## Currently learning
-
-> Building useful things and learning in public.
-
-**Learning next**
-
-👥 **0** followers · **1** following
-
-## Tools I’m practicing
-
-No public language data yet — building the first project in the open.
-
-## Projects in progress
-
-Public projects are being indexed.
-
-## Progress so far
-
-- **Current streak:** 0 days
-- **Longest streak:** 0 days
-- **Active days:** 0 days
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=azizgameon-lab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F240029363%3Fv%3D4" alt="azizgameon-lab stats visual" />
+  <img src="https://komarev.com/ghpvc/?username=azizgameon-lab&color=2563eb&style=flat-square&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/azizgameon-lab?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
+  <img src="https://img.shields.io/badge/Repos-Active-0284c7?style=flat-square" alt="Repos" />
+  <img src="https://img.shields.io/badge/Based%20in-Uzbekistan-10b981?style=flat-square" alt="Based in Uzbekistan" />
 </p>
 
-## Learning streak
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=azizgameon-lab&theme=neon" alt="azizgameon-lab contribution activity" />
+  <img src="./countdown.svg" alt="2027 Countdown" />
 </p>
-
-## Say hello
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=azizgameon-lab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F240029363%3Fv%3D4" alt="azizgameon-lab social visual" />
-</p>
-
-<a href="https://github.com/azizgameon-lab">GitHub</a>
-
-<p align="center"><sub>azizgameon-lab · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
